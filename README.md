@@ -1,6 +1,6 @@
 ## TL;DR
 We finally released Omni Ops (formerly Robo Ops)! It’s a feature-rich tournament companion. The link can be found below. We hope you like it and would love your feedback and ideas.
-
+***
 Hello everyone,
 After over half a year in development, we are finally ready to release this app to the community. Omni Ops has a lot to offer, so we’ll give a quick overview and go over all the features before we talk more about the journey of developing this app and our plans for the future.
 
