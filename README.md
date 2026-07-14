@@ -1,5 +1,5 @@
 ## TL;DR
-We finally released Omni Ops (formerly Robo Ops)! It’s a feature-rich tournament companion. The link can be found below. We hope you like it and would love your feedback and ideas.
+We finally released Omni Ops (formerly Robo Ops)! It’s a feature-rich tournament companion. You can access the app here: https://omni--ops.vercel.app/. We hope you like it and would love your feedback and ideas.
 ***
 Hello everyone,
 After over half a year in development, we are finally ready to release this app to the community. Omni Ops has a lot to offer, so we’ll give a quick overview and go over all the features before we talk more about the journey of developing this app and our plans for the future.
@@ -7,7 +7,7 @@ After over half a year in development, we are finally ready to release this app 
 Like we just said, there’s a lot this app is capable of, but all of its features work toward the same goal. The goal is to provide this community with an app they truly want and are a part of creating. The app’s purpose is to be a team’s ultimate companion at competitions. It does this by offering many tools and the ability for teams to share data and notes.
 
 ## Features
- *Events Hub*
+# *Events Hub*#
 This feature uses the VEX Events API to show you all tournaments, their teams, rankings, and matches. While Events Hub does work well, we still have a good bit we want to change and add. Development of Events Hub was slowed down quite a bit with the VEX/RECF split, so we apologize if it still feels like it’s lacking a little.
 
  **Game Rules**
